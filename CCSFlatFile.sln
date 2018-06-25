@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "CCSFlatFile", "CCSFlatFile\CCSFlatFile.rptproj", "{9BB0B396-3B97-498B-8ACA-C1D017ECA5BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BB0B396-3B97-498B-8ACA-C1D017ECA5BD}.Debug|Default.ActiveCfg = Debug
+		{9BB0B396-3B97-498B-8ACA-C1D017ECA5BD}.Debug|Default.Build.0 = Debug
+		{9BB0B396-3B97-498B-8ACA-C1D017ECA5BD}.Debug|Default.Deploy.0 = Debug
+		{9BB0B396-3B97-498B-8ACA-C1D017ECA5BD}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{9BB0B396-3B97-498B-8ACA-C1D017ECA5BD}.DebugLocal|Default.Build.0 = DebugLocal
+		{9BB0B396-3B97-498B-8ACA-C1D017ECA5BD}.Release|Default.ActiveCfg = Release
+		{9BB0B396-3B97-498B-8ACA-C1D017ECA5BD}.Release|Default.Build.0 = Release
+		{9BB0B396-3B97-498B-8ACA-C1D017ECA5BD}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C1E1B0C-6013-41A6-B879-29B0572DC04A}
+	EndGlobalSection
+EndGlobal
